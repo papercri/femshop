@@ -18,7 +18,7 @@ export const db = getDatabase(app);
 
 //setter method
 export function updateCarts(userId, items) {
-  console.log("aca");
+
   set(ref(db, `carts/${userId}`), items);
 }
 
