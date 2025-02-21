@@ -2,8 +2,8 @@
 
 **FemShop** es un proyecto de ecommerce desarrollado con Vue, utilizando **Pinia** para el manejo del estado, **localStorage** para persistencia local, **Firebase** para gestión de datos y autenticación, y una **API externa** para la gestión de usuarios.
 
-Link: https://femshop-nu.vercel.app/
 ---
+**Link:** https://femshop-nu.vercel.app/
 
 ## Descripción
 
